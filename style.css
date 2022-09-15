@@ -32,4 +32,16 @@ img {
     border-spacing: 0;
 }
 
+.two-column {
+	text-align: center;
+	font-size: 0;
+}
+
+.two-column .column {
+	width: 100%;
+	max-width: 300px;
+	display: inline-block;
+	vertical-align: top;
+	text-align: center;
+}
 }
