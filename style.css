@@ -12,7 +12,8 @@ table {
 td {
     padding: 0;
 }
-img {
+
+img, .img1 {
     border: 0;
 }
 
