@@ -54,6 +54,14 @@ img {
     width: 100%;
 }
 
+.header {
+    padding: 10px;
+}
+
+.header, br {
+    margin-left: 75px;
+}
+
 .two-column {
 	padding: 15px 0;
 }
