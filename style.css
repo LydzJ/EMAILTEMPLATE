@@ -44,4 +44,14 @@ img {
 	vertical-align: top;
 	text-align: center;
 }
+.two-column .padding {
+    padding: 20px;
+}
+
+.two-column .content {
+    font-size: 15px;
+	line-height: 20px;
+	text-align: center;
+    color: #ffffff;
+}
 }
