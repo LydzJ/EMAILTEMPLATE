@@ -44,6 +44,16 @@ img {
 	vertical-align: top;
 	text-align: center;
 }
+
+.one-column {
+    text-align: center;
+    font-size: 2.375rem;
+}
+
+.one-column .column {
+    width: 100%;
+}
+
 .two-column {
 	padding: 15px 0;
 }
