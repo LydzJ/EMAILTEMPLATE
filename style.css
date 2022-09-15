@@ -3,7 +3,8 @@
 
 body {
     margin: 0;
-    background-color: #cccccc;
+    background-image: radial-gradient(circle, #fffce3, #e8eccd, #ceddb9, #b2cea8, #95bf9a, #7cb89a, #60b09c, #40a8a0, #1ba3b0, #0a9bbd, #3192c5, #5887c5);
+    font-family: 'Prata', serif;
 }
 table {
     border-spacing: 0;
